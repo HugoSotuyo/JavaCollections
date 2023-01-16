@@ -1,0 +1,22 @@
+@startuml
+annotation java.lang.Override
+class Entidad.Cine
+class Entidad.Espectador
+class Entidad.Pelicula
+class Entidad.Sala
+class Servicio.CineServicio
+class com.mycompany.relacionesej2_extras.RelacionesEj2_Extras
+class java.util.Random
+class java.util.Scanner
+Entidad.Cine ..> java.lang.Override
+Entidad.Espectador ..> java.lang.Override
+Entidad.Pelicula ..> java.lang.Override
+Entidad.Sala ..> java.lang.Override
+Servicio.CineServicio ..> Entidad.Cine
+Servicio.CineServicio ..> Entidad.Espectador
+Servicio.CineServicio ..> Entidad.Pelicula
+Servicio.CineServicio ..> Entidad.Sala
+Servicio.CineServicio ..> java.util.Random
+Servicio.CineServicio ..> java.util.Scanner
+com.mycompany.relacionesej2_extras.RelacionesEj2_Extras ..> Servicio.CineServicio
+@enduml

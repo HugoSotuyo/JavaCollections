@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="485px" preserveAspectRatio="none" style="width:707px;height:485px;" version="1.1" viewBox="0 0 707 485" width="707px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1z9uevgfeeom" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g>
+        <!--MD5=[aa8f7b917213fcc1c2766e2d59b49067]
+cluster java.lang-->
+        <polygon fill="#FFFFFF" filter="url(#f1z9uevgfeeom)" points="168,378,237,378,244,401.6094,278,401.6094,278,478,168,478,168,378" style="stroke:#000000;stroke-width:1.5;"/>
+        <line style="stroke:#000000;stroke-width:1.5;" x1="168" x2="244" y1="401.6094" y2="401.6094"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="63" x="172" y="394.5332">java.lang</text>
+        <!--MD5=[897ff56dbdbc57ee6a5c5a1dc8a35074]
+cluster Entidad-->
+        <polygon fill="#FFFFFF" filter="url(#f1z9uevgfeeom)" points="16,254,75,254,82,277.6094,441,277.6094,441,354,16,354,16,254" style="stroke:#000000;stroke-width:1.5;"/>
+        <line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="82" y1="277.6094" y2="277.6094"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="53" x="20" y="270.5332">Entidad</text>
+        <!--MD5=[50386278f917041981f2fb04bc2b1067]
+cluster Servicio-->
+        <polygon fill="#FFFFFF" filter="url(#f1z9uevgfeeom)" points="273,130,337,130,344,153.6094,407,153.6094,407,230,273,230,273,130" style="stroke:#000000;stroke-width:1.5;"/>
+        <line style="stroke:#000000;stroke-width:1.5;" x1="273" x2="344" y1="153.6094" y2="153.6094"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="58" x="277" y="146.5332">Servicio</text>
+        <!--MD5=[d039a4091289ae9bd8252e2e1ab9d822]
+cluster com.mycompany.relacionesej2_extras-->
+        <polygon fill="#FFFFFF" filter="url(#f1z9uevgfeeom)" points="200,6,471,6,478,29.6094,481,29.6094,481,106,200,106,200,6" style="stroke:#000000;stroke-width:1.5;"/>
+        <line style="stroke:#000000;stroke-width:1.5;" x1="200" x2="478" y1="29.6094" y2="29.6094"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="265" x="204" y="22.5332">com.mycompany.relacionesej2_extras</text>
+        <!--MD5=[7db3c59d38ae5b37b484eb2df9368145]
+cluster java.util-->
+        <polygon fill="#FFFFFF" filter="url(#f1z9uevgfeeom)" points="465,254,526,254,533,277.6094,690,277.6094,690,354,465,354,465,254" style="stroke:#000000;stroke-width:1.5;"/>
+        <line style="stroke:#000000;stroke-width:1.5;" x1="465" x2="533" y1="277.6094" y2="277.6094"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="55" x="469" y="270.5332">java.util</text>
+        <!--MD5=[3c78a2fa643d9223b1f8ad930e883961]
+class java.lang.Override-->
+        <rect codeLine="1" fill="#FEFECE" filter="url(#f1z9uevgfeeom)" height="48" id="java.lang.Override" style="stroke:#A80036;stroke-width:1.5;" width="78" x="184" y="414"/>
+        <ellipse cx="199" cy="430" fill="#E3664A" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M201.3438,427.5781 L201.3438,427.0625 Q201.3438,426.2344 200.8672,425.7344 Q200.3906,425.2344 199.6406,425.2344 Q199.0469,425.2344 198.5156,425.6328 Q197.9844,426.0313 197.7188,426.6563 Q197.25,427.75 197.25,428.8594 L197.25,431.375 Q197.25,433.2969 198.1094,434.4219 Q198.6719,435.1719 199.6875,435.1719 Q200.2344,435.1719 200.6797,435.0313 Q201.125,434.8906 201.375,434.6406 Q201.625,434.3906 201.8438,434.3906 Q202.1094,434.3906 202.2969,434.5781 Q202.4844,434.7656 202.4844,435.0313 Q202.4844,435.4531 201.9063,435.8438 Q201.0781,436.4063 199.6406,436.4063 Q198.5469,436.4063 197.8281,435.9063 Q196.9063,435.2656 196.4531,434 Q196,432.7344 196,431.5 L196,428.7656 Q196,426.7813 196.9844,425.3828 Q197.9688,423.9844 199.6094,423.9844 Q200.3594,423.9844 201.0078,424.2891 Q201.6563,424.5938 202.125,425.3594 Q202.5938,426.125 202.5938,427.0625 L202.5938,431.5938 Q202.9531,431.7656 202.9531,432.1563 Q202.9531,432.4375 202.7578,432.6172 Q202.5625,432.7969 202.0938,432.7969 L201.3438,432.7969 L201.3438,432.75 Q200.9531,432.8125 200.7656,432.8125 Q199.7656,432.8125 199.0234,432.0703 Q198.2813,431.3281 198.2813,430.3281 Q198.2813,429.2656 199.1016,428.4688 Q199.9219,427.6719 201.3438,427.5781 Z M201.3438,428.8594 Q200.4531,428.9531 199.9922,429.375 Q199.5313,429.7969 199.5313,430.3438 Q199.5313,430.8281 199.9141,431.1719 Q200.2969,431.5156 200.9375,431.5156 Q201.0625,431.5156 201.3438,431.5 L201.3438,428.8594 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="46" x="213" y="434.9102">Override</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="185" x2="261" y1="446" y2="446"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="185" x2="261" y1="454" y2="454"/>
+        <!--MD5=[907d8a70fc895283b94ddf8fb1efd657]
+class Entidad.Cine-->
+        <rect codeLine="2" fill="#FEFECE" filter="url(#f1z9uevgfeeom)" height="48" id="Entidad.Cine" style="stroke:#A80036;stroke-width:1.5;" width="58" x="367" y="290"/>
+        <ellipse cx="382" cy="306" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M384.7656,301.875 Q384.9219,301.6563 385.1094,301.5469 Q385.2969,301.4375 385.5156,301.4375 Q385.8906,301.4375 386.125,301.6953 Q386.3594,301.9531 386.3594,302.5625 L386.3594,304.0156 Q386.3594,304.625 386.125,304.8906 Q385.8906,305.1563 385.5156,305.1563 Q385.1719,305.1563 384.9688,304.9531 Q384.7656,304.7656 384.6563,304.25 Q384.6094,303.8906 384.4219,303.7031 Q384.0938,303.3281 383.4844,303.1094 Q382.875,302.8906 382.25,302.8906 Q381.4844,302.8906 380.8516,303.2188 Q380.2188,303.5469 379.7266,304.2969 Q379.2344,305.0469 379.2344,306.0781 L379.2344,307.1719 Q379.2344,308.4063 380.125,309.2266 Q381.0156,310.0469 382.6094,310.0469 Q383.5469,310.0469 384.2031,309.7969 Q384.5938,309.6406 385.0156,309.2031 Q385.2813,308.9375 385.4297,308.8594 Q385.5781,308.7813 385.7813,308.7813 Q386.1094,308.7813 386.3672,309.0391 Q386.625,309.2969 386.625,309.6406 Q386.625,309.9844 386.2813,310.3906 Q385.7813,310.9688 384.9844,311.2969 Q383.9063,311.75 382.6094,311.75 Q381.0938,311.75 379.8906,311.125 Q378.9063,310.625 378.2188,309.5547 Q377.5313,308.4844 377.5313,307.2031 L377.5313,306.0469 Q377.5313,304.7188 378.1484,303.5703 Q378.7656,302.4219 379.8594,301.8047 Q380.9531,301.1875 382.1875,301.1875 Q382.9219,301.1875 383.5703,301.3516 Q384.2188,301.5156 384.7656,301.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="26" x="396" y="310.9102">Cine</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="368" x2="424" y1="322" y2="322"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="368" x2="424" y1="330" y2="330"/>
+        <!--MD5=[a3cf6c97fc287fd0e982d1cf11de61ec]
+class Entidad.Espectador-->
+        <rect codeLine="3" fill="#FEFECE" filter="url(#f1z9uevgfeeom)" height="48" id="Entidad.Espectador" style="stroke:#A80036;stroke-width:1.5;" width="95" x="236.5" y="290"/>
+        <ellipse cx="251.5" cy="306" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M254.2656,301.875 Q254.4219,301.6563 254.6094,301.5469 Q254.7969,301.4375 255.0156,301.4375 Q255.3906,301.4375 255.625,301.6953 Q255.8594,301.9531 255.8594,302.5625 L255.8594,304.0156 Q255.8594,304.625 255.625,304.8906 Q255.3906,305.1563 255.0156,305.1563 Q254.6719,305.1563 254.4688,304.9531 Q254.2656,304.7656 254.1563,304.25 Q254.1094,303.8906 253.9219,303.7031 Q253.5938,303.3281 252.9844,303.1094 Q252.375,302.8906 251.75,302.8906 Q250.9844,302.8906 250.3516,303.2188 Q249.7188,303.5469 249.2266,304.2969 Q248.7344,305.0469 248.7344,306.0781 L248.7344,307.1719 Q248.7344,308.4063 249.625,309.2266 Q250.5156,310.0469 252.1094,310.0469 Q253.0469,310.0469 253.7031,309.7969 Q254.0938,309.6406 254.5156,309.2031 Q254.7813,308.9375 254.9297,308.8594 Q255.0781,308.7813 255.2813,308.7813 Q255.6094,308.7813 255.8672,309.0391 Q256.125,309.2969 256.125,309.6406 Q256.125,309.9844 255.7813,310.3906 Q255.2813,310.9688 254.4844,311.2969 Q253.4063,311.75 252.1094,311.75 Q250.5938,311.75 249.3906,311.125 Q248.4063,310.625 247.7188,309.5547 Q247.0313,308.4844 247.0313,307.2031 L247.0313,306.0469 Q247.0313,304.7188 247.6484,303.5703 Q248.2656,302.4219 249.3594,301.8047 Q250.4531,301.1875 251.6875,301.1875 Q252.4219,301.1875 253.0703,301.3516 Q253.7188,301.5156 254.2656,301.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="63" x="265.5" y="310.9102">Espectador</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="237.5" x2="330.5" y1="322" y2="322"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="237.5" x2="330.5" y1="330" y2="330"/>
+        <!--MD5=[89d764a36ca1bdb2e79d31f0433469e2]
+class Entidad.Pelicula-->
+        <rect codeLine="4" fill="#FEFECE" filter="url(#f1z9uevgfeeom)" height="48" id="Entidad.Pelicula" style="stroke:#A80036;stroke-width:1.5;" width="76" x="125" y="290"/>
+        <ellipse cx="140" cy="306" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M142.7656,301.875 Q142.9219,301.6563 143.1094,301.5469 Q143.2969,301.4375 143.5156,301.4375 Q143.8906,301.4375 144.125,301.6953 Q144.3594,301.9531 144.3594,302.5625 L144.3594,304.0156 Q144.3594,304.625 144.125,304.8906 Q143.8906,305.1563 143.5156,305.1563 Q143.1719,305.1563 142.9688,304.9531 Q142.7656,304.7656 142.6563,304.25 Q142.6094,303.8906 142.4219,303.7031 Q142.0938,303.3281 141.4844,303.1094 Q140.875,302.8906 140.25,302.8906 Q139.4844,302.8906 138.8516,303.2188 Q138.2188,303.5469 137.7266,304.2969 Q137.2344,305.0469 137.2344,306.0781 L137.2344,307.1719 Q137.2344,308.4063 138.125,309.2266 Q139.0156,310.0469 140.6094,310.0469 Q141.5469,310.0469 142.2031,309.7969 Q142.5938,309.6406 143.0156,309.2031 Q143.2813,308.9375 143.4297,308.8594 Q143.5781,308.7813 143.7813,308.7813 Q144.1094,308.7813 144.3672,309.0391 Q144.625,309.2969 144.625,309.6406 Q144.625,309.9844 144.2813,310.3906 Q143.7813,310.9688 142.9844,311.2969 Q141.9063,311.75 140.6094,311.75 Q139.0938,311.75 137.8906,311.125 Q136.9063,310.625 136.2188,309.5547 Q135.5313,308.4844 135.5313,307.2031 L135.5313,306.0469 Q135.5313,304.7188 136.1484,303.5703 Q136.7656,302.4219 137.8594,301.8047 Q138.9531,301.1875 140.1875,301.1875 Q140.9219,301.1875 141.5703,301.3516 Q142.2188,301.5156 142.7656,301.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="44" x="154" y="310.9102">Pelicula</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="126" x2="200" y1="322" y2="322"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="126" x2="200" y1="330" y2="330"/>
+        <!--MD5=[b67d59ec643f52ea094e36959dc0819d]
+class Entidad.Sala-->
+        <rect codeLine="5" fill="#FEFECE" filter="url(#f1z9uevgfeeom)" height="48" id="Entidad.Sala" style="stroke:#A80036;stroke-width:1.5;" width="57" x="32.5" y="290"/>
+        <ellipse cx="47.5" cy="306" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M50.2656,301.875 Q50.4219,301.6563 50.6094,301.5469 Q50.7969,301.4375 51.0156,301.4375 Q51.3906,301.4375 51.625,301.6953 Q51.8594,301.9531 51.8594,302.5625 L51.8594,304.0156 Q51.8594,304.625 51.625,304.8906 Q51.3906,305.1563 51.0156,305.1563 Q50.6719,305.1563 50.4688,304.9531 Q50.2656,304.7656 50.1563,304.25 Q50.1094,303.8906 49.9219,303.7031 Q49.5938,303.3281 48.9844,303.1094 Q48.375,302.8906 47.75,302.8906 Q46.9844,302.8906 46.3516,303.2188 Q45.7188,303.5469 45.2266,304.2969 Q44.7344,305.0469 44.7344,306.0781 L44.7344,307.1719 Q44.7344,308.4063 45.625,309.2266 Q46.5156,310.0469 48.1094,310.0469 Q49.0469,310.0469 49.7031,309.7969 Q50.0938,309.6406 50.5156,309.2031 Q50.7813,308.9375 50.9297,308.8594 Q51.0781,308.7813 51.2813,308.7813 Q51.6094,308.7813 51.8672,309.0391 Q52.125,309.2969 52.125,309.6406 Q52.125,309.9844 51.7813,310.3906 Q51.2813,310.9688 50.4844,311.2969 Q49.4063,311.75 48.1094,311.75 Q46.5938,311.75 45.3906,311.125 Q44.4063,310.625 43.7188,309.5547 Q43.0313,308.4844 43.0313,307.2031 L43.0313,306.0469 Q43.0313,304.7188 43.6484,303.5703 Q44.2656,302.4219 45.3594,301.8047 Q46.4531,301.1875 47.6875,301.1875 Q48.4219,301.1875 49.0703,301.3516 Q49.7188,301.5156 50.2656,301.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="25" x="61.5" y="310.9102">Sala</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="33.5" x2="88.5" y1="322" y2="322"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="33.5" x2="88.5" y1="330" y2="330"/>
+        <!--MD5=[b175eed980a55c596e7936a9be6fa2f4]
+class Servicio.CineServicio-->
+        <rect codeLine="6" fill="#FEFECE" filter="url(#f1z9uevgfeeom)" height="48" id="Servicio.CineServicio" style="stroke:#A80036;stroke-width:1.5;" width="101" x="289.5" y="166"/>
+        <ellipse cx="304.5" cy="182" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M307.2656,177.875 Q307.4219,177.6563 307.6094,177.5469 Q307.7969,177.4375 308.0156,177.4375 Q308.3906,177.4375 308.625,177.6953 Q308.8594,177.9531 308.8594,178.5625 L308.8594,180.0156 Q308.8594,180.625 308.625,180.8906 Q308.3906,181.1563 308.0156,181.1563 Q307.6719,181.1563 307.4688,180.9531 Q307.2656,180.7656 307.1563,180.25 Q307.1094,179.8906 306.9219,179.7031 Q306.5938,179.3281 305.9844,179.1094 Q305.375,178.8906 304.75,178.8906 Q303.9844,178.8906 303.3516,179.2188 Q302.7188,179.5469 302.2266,180.2969 Q301.7344,181.0469 301.7344,182.0781 L301.7344,183.1719 Q301.7344,184.4063 302.625,185.2266 Q303.5156,186.0469 305.1094,186.0469 Q306.0469,186.0469 306.7031,185.7969 Q307.0938,185.6406 307.5156,185.2031 Q307.7813,184.9375 307.9297,184.8594 Q308.0781,184.7813 308.2813,184.7813 Q308.6094,184.7813 308.8672,185.0391 Q309.125,185.2969 309.125,185.6406 Q309.125,185.9844 308.7813,186.3906 Q308.2813,186.9688 307.4844,187.2969 Q306.4063,187.75 305.1094,187.75 Q303.5938,187.75 302.3906,187.125 Q301.4063,186.625 300.7188,185.5547 Q300.0313,184.4844 300.0313,183.2031 L300.0313,182.0469 Q300.0313,180.7188 300.6484,179.5703 Q301.2656,178.4219 302.3594,177.8047 Q303.4531,177.1875 304.6875,177.1875 Q305.4219,177.1875 306.0703,177.3516 Q306.7188,177.5156 307.2656,177.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="69" x="318.5" y="186.9102">CineServicio</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="290.5" x2="389.5" y1="198" y2="198"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="290.5" x2="389.5" y1="206" y2="206"/>
+        <!--MD5=[ddc1536f77c0506c4029dbcc5d27c3af]
+class com.mycompany.relacionesej2_extras.RelacionesEj2_Extras-->
+        <rect codeLine="7" fill="#FEFECE" filter="url(#f1z9uevgfeeom)" height="48" id="com.mycompany.relacionesej2_extras.RelacionesEj2_Extras" style="stroke:#A80036;stroke-width:1.5;" width="154" x="263" y="42"/>
+        <ellipse cx="278" cy="58" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M280.7656,53.875 Q280.9219,53.6563 281.1094,53.5469 Q281.2969,53.4375 281.5156,53.4375 Q281.8906,53.4375 282.125,53.6953 Q282.3594,53.9531 282.3594,54.5625 L282.3594,56.0156 Q282.3594,56.625 282.125,56.8906 Q281.8906,57.1563 281.5156,57.1563 Q281.1719,57.1563 280.9688,56.9531 Q280.7656,56.7656 280.6563,56.25 Q280.6094,55.8906 280.4219,55.7031 Q280.0938,55.3281 279.4844,55.1094 Q278.875,54.8906 278.25,54.8906 Q277.4844,54.8906 276.8516,55.2188 Q276.2188,55.5469 275.7266,56.2969 Q275.2344,57.0469 275.2344,58.0781 L275.2344,59.1719 Q275.2344,60.4063 276.125,61.2266 Q277.0156,62.0469 278.6094,62.0469 Q279.5469,62.0469 280.2031,61.7969 Q280.5938,61.6406 281.0156,61.2031 Q281.2813,60.9375 281.4297,60.8594 Q281.5781,60.7813 281.7813,60.7813 Q282.1094,60.7813 282.3672,61.0391 Q282.625,61.2969 282.625,61.6406 Q282.625,61.9844 282.2813,62.3906 Q281.7813,62.9688 280.9844,63.2969 Q279.9063,63.75 278.6094,63.75 Q277.0938,63.75 275.8906,63.125 Q274.9063,62.625 274.2188,61.5547 Q273.5313,60.4844 273.5313,59.2031 L273.5313,58.0469 Q273.5313,56.7188 274.1484,55.5703 Q274.7656,54.4219 275.8594,53.8047 Q276.9531,53.1875 278.1875,53.1875 Q278.9219,53.1875 279.5703,53.3516 Q280.2188,53.5156 280.7656,53.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="122" x="292" y="62.9102">RelacionesEj2_Extras</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="264" x2="416" y1="74" y2="74"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="264" x2="416" y1="82" y2="82"/>
+        <!--MD5=[6c70c0f5d22b0d421fe766e144384ba2]
+class java.util.Random-->
+        <rect codeLine="8" fill="#FEFECE" filter="url(#f1z9uevgfeeom)" height="48" id="java.util.Random" style="stroke:#A80036;stroke-width:1.5;" width="80" x="594" y="290"/>
+        <ellipse cx="609" cy="306" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M611.7656,301.875 Q611.9219,301.6563 612.1094,301.5469 Q612.2969,301.4375 612.5156,301.4375 Q612.8906,301.4375 613.125,301.6953 Q613.3594,301.9531 613.3594,302.5625 L613.3594,304.0156 Q613.3594,304.625 613.125,304.8906 Q612.8906,305.1563 612.5156,305.1563 Q612.1719,305.1563 611.9688,304.9531 Q611.7656,304.7656 611.6563,304.25 Q611.6094,303.8906 611.4219,303.7031 Q611.0938,303.3281 610.4844,303.1094 Q609.875,302.8906 609.25,302.8906 Q608.4844,302.8906 607.8516,303.2188 Q607.2188,303.5469 606.7266,304.2969 Q606.2344,305.0469 606.2344,306.0781 L606.2344,307.1719 Q606.2344,308.4063 607.125,309.2266 Q608.0156,310.0469 609.6094,310.0469 Q610.5469,310.0469 611.2031,309.7969 Q611.5938,309.6406 612.0156,309.2031 Q612.2813,308.9375 612.4297,308.8594 Q612.5781,308.7813 612.7813,308.7813 Q613.1094,308.7813 613.3672,309.0391 Q613.625,309.2969 613.625,309.6406 Q613.625,309.9844 613.2813,310.3906 Q612.7813,310.9688 611.9844,311.2969 Q610.9063,311.75 609.6094,311.75 Q608.0938,311.75 606.8906,311.125 Q605.9063,310.625 605.2188,309.5547 Q604.5313,308.4844 604.5313,307.2031 L604.5313,306.0469 Q604.5313,304.7188 605.1484,303.5703 Q605.7656,302.4219 606.8594,301.8047 Q607.9531,301.1875 609.1875,301.1875 Q609.9219,301.1875 610.5703,301.3516 Q611.2188,301.5156 611.7656,301.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="48" x="623" y="310.9102">Random</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="595" x2="673" y1="322" y2="322"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="595" x2="673" y1="330" y2="330"/>
+        <!--MD5=[28e8da24617c3e7f8b010c1b590508e8]
+class java.util.Scanner-->
+        <rect codeLine="9" fill="#FEFECE" filter="url(#f1z9uevgfeeom)" height="48" id="java.util.Scanner" style="stroke:#A80036;stroke-width:1.5;" width="78" x="481" y="290"/>
+        <ellipse cx="496" cy="306" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M498.7656,301.875 Q498.9219,301.6563 499.1094,301.5469 Q499.2969,301.4375 499.5156,301.4375 Q499.8906,301.4375 500.125,301.6953 Q500.3594,301.9531 500.3594,302.5625 L500.3594,304.0156 Q500.3594,304.625 500.125,304.8906 Q499.8906,305.1563 499.5156,305.1563 Q499.1719,305.1563 498.9688,304.9531 Q498.7656,304.7656 498.6563,304.25 Q498.6094,303.8906 498.4219,303.7031 Q498.0938,303.3281 497.4844,303.1094 Q496.875,302.8906 496.25,302.8906 Q495.4844,302.8906 494.8516,303.2188 Q494.2188,303.5469 493.7266,304.2969 Q493.2344,305.0469 493.2344,306.0781 L493.2344,307.1719 Q493.2344,308.4063 494.125,309.2266 Q495.0156,310.0469 496.6094,310.0469 Q497.5469,310.0469 498.2031,309.7969 Q498.5938,309.6406 499.0156,309.2031 Q499.2813,308.9375 499.4297,308.8594 Q499.5781,308.7813 499.7813,308.7813 Q500.1094,308.7813 500.3672,309.0391 Q500.625,309.2969 500.625,309.6406 Q500.625,309.9844 500.2813,310.3906 Q499.7813,310.9688 498.9844,311.2969 Q497.9063,311.75 496.6094,311.75 Q495.0938,311.75 493.8906,311.125 Q492.9063,310.625 492.2188,309.5547 Q491.5313,308.4844 491.5313,307.2031 L491.5313,306.0469 Q491.5313,304.7188 492.1484,303.5703 Q492.7656,302.4219 493.8594,301.8047 Q494.9531,301.1875 496.1875,301.1875 Q496.9219,301.1875 497.5703,301.3516 Q498.2188,301.5156 498.7656,301.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="46" x="510" y="310.9102">Scanner</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="482" x2="558" y1="322" y2="322"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="482" x2="558" y1="330" y2="330"/>
+        <!--MD5=[3a73f6a67e751861b1248a6ee365e77a]
+link Entidad.Cine to java.lang.Override-->
+        <path codeLine="10" d="M375.06,338.19 C367.27,346.19 358.11,354.91 349,362 C323.27,382.01 291.77,400.77 266.69,414.52 " fill="none" id="Entidad.Cine-to-java.lang.Override" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+        <polygon fill="#A80036" points="262.09,417.02,271.9054,416.2085,266.4762,414.6197,268.0649,409.1906,262.09,417.02" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[6c50d44a77bd8966fb639287317c0ff7]
+link Entidad.Espectador to java.lang.Override-->
+        <path codeLine="11" d="M272.38,338.23 C262.29,358.42 247.65,387.69 236.94,409.13 " fill="none" id="Entidad.Espectador-to-java.lang.Override" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+        <polygon fill="#A80036" points="234.57,413.85,242.1566,407.5696,236.7947,409.3722,234.9921,404.0102,234.57,413.85" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[0cbaed0d0baa6ac77d6a5c9a2aaf0f24]
+link Entidad.Pelicula to java.lang.Override-->
+        <path codeLine="12" d="M174.43,338.23 C184.35,358.42 198.75,387.69 209.29,409.13 " fill="none" id="Entidad.Pelicula-to-java.lang.Override" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+        <polygon fill="#A80036" points="211.62,413.85,211.2231,404.0091,209.4068,409.3665,204.0495,407.5503,211.62,413.85" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[95cdb99813a934032f3c37cddb235252]
+link Entidad.Sala to java.lang.Override-->
+        <path codeLine="13" d="M82.58,338.47 C90.27,346.32 99.22,354.87 108,362 C130.38,380.16 157.28,397.9 179.44,411.57 " fill="none" id="Entidad.Sala-to-java.lang.Override" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+        <polygon fill="#A80036" points="183.8,414.24,178.2239,406.1217,179.5393,411.6235,174.0375,412.9389,183.8,414.24" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[d21ea8dc78031b4fc7f97314533fd3eb]
+link Servicio.CineServicio to Entidad.Cine-->
+        <path codeLine="14" d="M350.66,214.23 C359.93,234.42 373.37,263.69 383.21,285.13 " fill="none" id="Servicio.CineServicio-to-Entidad.Cine" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+        <polygon fill="#A80036" points="385.37,289.85,385.25,280.0019,383.2838,285.306,377.9796,283.3398,385.37,289.85" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[992e5b401531a44b20b794b5112a80bd]
+link Servicio.CineServicio to Entidad.Espectador-->
+        <path codeLine="15" d="M329.34,214.23 C320.07,234.42 306.63,263.69 296.79,285.13 " fill="none" id="Servicio.CineServicio-to-Entidad.Espectador" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+        <polygon fill="#A80036" points="294.63,289.85,302.0204,283.3398,296.7162,285.306,294.75,280.0019,294.63,289.85" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[a0a0943756f1b4b5fbb0ae00de6d1404]
+link Servicio.CineServicio to Entidad.Pelicula-->
+        <path codeLine="16" d="M289.23,208.17 C266.45,217.31 240.02,230 219,246 C204.46,257.07 191.2,272.57 181.23,285.87 " fill="none" id="Servicio.CineServicio-to-Entidad.Pelicula" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+        <polygon fill="#A80036" points="178.25,289.92,186.8084,285.0463,181.2155,285.8944,180.3674,280.3014,178.25,289.92" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[7f128ba26da9f0d23ad718039fb6000d]
+link Servicio.CineServicio to Entidad.Sala-->
+        <path codeLine="17" d="M289.25,192.76 C239.26,196.71 162.64,208.94 108,246 C93.63,255.74 82.27,271.45 74.32,285.21 " fill="none" id="Servicio.CineServicio-to-Entidad.Sala" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+        <polygon fill="#A80036" points="71.76,289.79,79.6422,283.8848,74.1991,285.4253,72.6586,279.9822,71.76,289.79" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[14743479d0a8aaaa6541278db8231b8f]
+link Servicio.CineServicio to java.util.Random-->
+        <path codeLine="18" d="M390.64,193.57 C441.13,198.15 519.28,210.85 577,246 C593.08,255.79 606.89,271.68 616.88,285.53 " fill="none" id="Servicio.CineServicio-to-java.util.Random" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+        <polygon fill="#A80036" points="619.86,289.76,617.9351,280.1011,616.9755,285.676,611.4006,284.7163,619.86,289.76" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[e4520bd3d91468b67ed6764f690ea913]
+link Servicio.CineServicio to java.util.Scanner-->
+        <path codeLine="19" d="M387.19,214.13 C404.57,223.3 424.12,234.43 441,246 C458.62,258.08 476.91,273.39 491.44,286.31 " fill="none" id="Servicio.CineServicio-to-java.util.Scanner" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+        <polygon fill="#A80036" points="495.44,289.89,491.3899,280.9124,491.7101,286.5602,486.0623,286.8803,495.44,289.89" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[188d92d71233d2b591de7d064ec67cfc]
+link com.mycompany.relacionesej2_extras.RelacionesEj2_Extras to Servicio.CineServicio-->
+        <path codeLine="20" d="M340,90.23 C340,110.25 340,139.2 340,160.59 " fill="none" id="com.mycompany.relacionesej2_extras.RelacionesEj2_Extras-to-Servicio.CineServicio" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+        <polygon fill="#A80036" points="340,165.85,344,156.85,340,160.85,336,156.85,340,165.85" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[b7b71ab4ada1f1f4263093bdaebb4e0a]
+@startuml
+annotation java.lang.Override
+class Entidad.Cine
+class Entidad.Espectador
+class Entidad.Pelicula
+class Entidad.Sala
+class Servicio.CineServicio
+class com.mycompany.relacionesej2_extras.RelacionesEj2_Extras
+class java.util.Random
+class java.util.Scanner
+Entidad.Cine ..> java.lang.Override
+Entidad.Espectador ..> java.lang.Override
+Entidad.Pelicula ..> java.lang.Override
+Entidad.Sala ..> java.lang.Override
+Servicio.CineServicio ..> Entidad.Cine
+Servicio.CineServicio ..> Entidad.Espectador
+Servicio.CineServicio ..> Entidad.Pelicula
+Servicio.CineServicio ..> Entidad.Sala
+Servicio.CineServicio ..> java.util.Random
+Servicio.CineServicio ..> java.util.Scanner
+com.mycompany.relacionesej2_extras.RelacionesEj2_Extras ..> Servicio.CineServicio
+@enduml
+
+PlantUML version 1.2021.3(Mon Mar 22 13:53:19 ART 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: es
+Country: AR
+-->
+    </g>
+</svg>

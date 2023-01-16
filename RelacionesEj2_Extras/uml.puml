@@ -1,0 +1,11 @@
+@startuml
+annotation java.lang.Override
+class Entidad.Cine
+class Entidad.Espectador
+class Entidad.Pelicula
+class Entidad.Sala
+Entidad.Cine ..> java.lang.Override
+Entidad.Espectador ..> java.lang.Override
+Entidad.Pelicula ..> java.lang.Override
+Entidad.Sala ..> java.lang.Override
+@enduml
